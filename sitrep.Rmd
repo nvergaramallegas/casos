@@ -2,3 +2,4 @@
 comparar tasa de ataque en diferentes grupos
 para identificar grupos a priorizar en intervención
 usar paquete (sf) para leer datos espacial
+Realizar graficos con {ggplot2}
